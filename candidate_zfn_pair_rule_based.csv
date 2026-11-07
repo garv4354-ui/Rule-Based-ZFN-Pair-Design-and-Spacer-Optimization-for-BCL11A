@@ -1,0 +1,4 @@
+part,sequence_5to3_on_own_strand,fingers_triplets,strand,amplicon_positions,hg38_coordinates
+left_half_site,GTGGCTGGG,"GTG GCT GGG",top,76-84,chr2:60462236-60462244
+spacer,AAGGACA,,-,85-91,chr2:60462245-60462251
+right_half_site,GGTGCAGAA,"GGT GCA GAA",bottom,92-100,chr2:60462252-60462260

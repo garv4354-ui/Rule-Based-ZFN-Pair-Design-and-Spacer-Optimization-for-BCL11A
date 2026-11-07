@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "ZFN candidate pair for BCL11A (rule-based scan)"
+abstract: "Rule-based ZFN candidate pair scan on a 237 bp BCL11A amplicon."
+type: dataset
+authors:
+  - family-names: "[Family name]"
+    given-names: "[Given name]"
+    affiliation: "[Institution]"
+version: "1.0.0"
+date-released: "2026-11-01"
+license: MIT
+repository-code: "https://github.com/[your-username]/zfn-bcl11a-design"
+keywords:
+  - BCL11A
+  - genome editing
+  - in silico design
